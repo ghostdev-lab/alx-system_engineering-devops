@@ -1,0 +1,6 @@
+#!/bin/bash
+ls -na
+
+ls       - list files/contents of files
+ls -l    - list contents of files in a long format
+ls -la   - list contents of files (hidden files too) in a long format

@@ -1,0 +1,12 @@
+#!/bin/bash
+pwd
+
+
+create folder
+create file (inside the folder)
+input code inside the file (must start with #!/bin/bash)
+type chmod u+x filename to make it executable/ gives it permission
+test your code
+type git add .
+git commit -m 'your message'
+git push origin master
